@@ -1,10 +1,10 @@
 # importe o módulo time
-import time
+import ???
 from playsound import playsound
 
 
-# defina a função de contagem regressiva do cronômetro
-def countdown_timer(seconds):
+# defina a função "countdown_timer"
+def ???(seconds):
     while seconds > 0:
 
         mins = int(seconds / 60)
